@@ -76,3 +76,14 @@ This project is ready for Vercel:
 - Build command: `npm run build`
 - Output directory: `dist`
 
+
+
+## Suggested GitHub Topics
+
+~~~text
+react vite frontend web-app typescript tailwindcss portfolio personal-website website landing-page
+~~~
+
+## License
+
+This project is available under the MIT License. See [LICENSE](LICENSE).
